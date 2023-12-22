@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashCRM.WebApi", "SplashCRM.WebApi\SplashCRM.WebApi.csproj", "{6C6AB207-A336-423F-A6C7-1972811B8B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashCRM.Data", "SplashCRM.Data\SplashCRM.Data.csproj", "{5F88440C-0BBB-4053-9DB1-F00EC06B50C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashCRM.Services", "SplashCRM.Services\SplashCRM.Services.csproj", "{6B7E4A1C-5F85-48A6-BF11-3F9FF6C9C772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashCRM.Models", "SplashCRM.Models\SplashCRM.Models.csproj", "{092B175D-0DBD-4EB4-ABFD-FD4CBD621A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6AB207-A336-423F-A6C7-1972811B8B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6AB207-A336-423F-A6C7-1972811B8B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6AB207-A336-423F-A6C7-1972811B8B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6AB207-A336-423F-A6C7-1972811B8B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F88440C-0BBB-4053-9DB1-F00EC06B50C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F88440C-0BBB-4053-9DB1-F00EC06B50C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F88440C-0BBB-4053-9DB1-F00EC06B50C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F88440C-0BBB-4053-9DB1-F00EC06B50C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7E4A1C-5F85-48A6-BF11-3F9FF6C9C772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7E4A1C-5F85-48A6-BF11-3F9FF6C9C772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7E4A1C-5F85-48A6-BF11-3F9FF6C9C772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7E4A1C-5F85-48A6-BF11-3F9FF6C9C772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092B175D-0DBD-4EB4-ABFD-FD4CBD621A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092B175D-0DBD-4EB4-ABFD-FD4CBD621A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092B175D-0DBD-4EB4-ABFD-FD4CBD621A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092B175D-0DBD-4EB4-ABFD-FD4CBD621A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
