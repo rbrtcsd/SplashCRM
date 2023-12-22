@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SplashCRM.Data\SplashCRM.Data.csproj" />
+    <ProjectReference Include="..\SplashCRM.Services\SplashCRM.Services.csproj" />
+    <ProjectReference Include="..\SplashCRM.Models\SplashCRM.Models.csproj" />
+  </ItemGroup>
+
 </Project>
